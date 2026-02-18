@@ -1,0 +1,11 @@
+Customer,Debt,Collateral,CreditHistory,Income,Risk
+1,3,8,8,10,Low risk
+2,1,7,6,27,Low risk
+3,3,5,4,15,Medium Risk
+4,2,4,9,27,Low risk
+5,2,9,5,34,Low risk
+6,6,3,4,13,Medium Risk
+7,5,7,6,34,Medium Risk
+8,8,8,3,15,High Risk
+9,8,2,4,43,High Risk
+10,8,10,3,35,High Risk
